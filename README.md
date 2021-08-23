@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AnnaZou1103
+- 🌱 Study at the City University of Hong Kong
+- 🧑‍💼 Work on Siemens Advanta
 - 👀 I’m interested in Mobile App development, Software Engineering, Machine Learning etc.
-- 🌱 I’m currently a Computer Science student in the City University of Hong Kong
 - 📫 Please email me via AnnaZou1103@gmail.com
 
 <!---
