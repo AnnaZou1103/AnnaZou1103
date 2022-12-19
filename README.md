@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnaZou1103
 - 🌱 Study at the City University of Hong Kong
-- 🧑‍💼 Work on Siemens Advanta
-- 👀 I’m interested in Mobile App development, Software Engineering, Machine Learning etc.
+- 🧑‍💼 Work on Siemens Limited
+- 👀 I’m interested in natural language processing (NLP), human-computer interaction (HCI), and multimodal learning.
 - 📫 Please email me via AnnaZou1103@gmail.com
 
 <!---
