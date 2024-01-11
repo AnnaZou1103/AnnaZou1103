@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnaZou1103
-- 🌱 Study at the City University of Hong Kong
-- 🧑‍💼 Work on Siemens Limited
-- 👀 I’m interested in natural language processing (NLP), human-computer interaction (HCI), and multimodal learning.
+- 🌱 Study at the Johns Hopkins University
+- 🧑‍💼 Worked on Siemens Limited
+- 👀 I’m interested in human-computer interaction (HCI) and natural language processing (NLP).
 - 📫 Please email me via AnnaZou1103@gmail.com
 
 <!---
