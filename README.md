@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnaZou1103
-- 🌱 Study at the Johns Hopkins University
-- 🧑‍💼 Worked on Siemens Limited
-- 👀 I’m interested in human-computer interaction (HCI) and natural language processing (NLP).
+- 🌱 Studied at the Johns Hopkins University (MSECS) and City University of Hong Kong (BSCS)
+- 🧑‍💼 Worked at Siemens Limited
+- 👀 I’m interested in natural language processing (NLP) and human-computer interaction (HCI).
 - 📫 Please email me via hzou11_at_jhu_dot_edu
 
 <!---
